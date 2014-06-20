@@ -1,0 +1,4 @@
+name: CrystalCounter
+main: me.devphp.crystalcounter.Core
+authors: [Devphp]
+version: 1.0
